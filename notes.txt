@@ -1,1 +1,1 @@
-This is MAIN version.
+Final merged version after conflict.
