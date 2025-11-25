@@ -19,3 +19,5 @@ A small lab to practice working with branches, merging, and handling merge confl
    - `git commit -m "resolve merge conflict"`
 
 ---
+## 📌 Notes
+This repository is only for practicing Git branching and conflict resolution.
