@@ -14,7 +14,7 @@ A small lab to practice working with branches, merging, and handling merge confl
 4. Edit the same line in `notes.txt` in `main`, then commit the change.  
 5. Merge `feature1` into `main`: `git merge feature1`  
 6. Resolve the merge conflict manually in `notes.txt`.  
-7. After fixing the conflict, run:  
+7. After fixing the conflict, run:
    - `git add .`  
    - `git commit -m "resolve merge conflict"`
 
